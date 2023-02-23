@@ -1,3 +1,3 @@
-module jemalloc
+module lifetimes 
 
 go 1.19
